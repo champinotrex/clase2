@@ -1,0 +1,17 @@
+h1{
+    display: block;
+    margin-block-start: 0.67px;
+    margin-block-end:  0.67px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+p{
+    color: darkblue;
+    text-align: justify;
+}
